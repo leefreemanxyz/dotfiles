@@ -1,2 +1,2 @@
 # tmux
-ln -sv ~/dotfiles/.tmux.conf ~/.tmux.conf 
+ln -sv ${PWD}/.tmux.conf ~/.tmux.conf 
